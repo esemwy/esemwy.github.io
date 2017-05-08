@@ -1,0 +1,11 @@
+---
+layout: default
+title: Infrared
+---
+<center>
+<div class="popup-gallery">
+  {% for image in site.infrared %}
+        <a href="{{ image.image_path }}"><img src="{{ image.thumb_path }}" width="150" height="150"></a>
+  {% endfor %}
+</div>
+</center>
