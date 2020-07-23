@@ -1,0 +1,39 @@
+h1.post-title {
+  width: 800px  !important;
+  font-size: 4em  !important;
+}
+
+#post-header.has-cover {
+  padding-top: 5em;
+  padding-bottom: 1em;
+}
+
+#blog-header.has-cover {
+  padding-top: 5em;
+  padding-bottom: 1em;
+}
+
+.gallery-content img {
+  width: 200px  !important;
+}
+
+.gallery-content ul {
+  columns: 3;
+  -webkit-columns: 3;
+  -moz-columns: 3;
+  list-style-type: none;
+}
+
+.gallery-content ul > li::before {
+  content: none;
+}
+
+section.credits {
+  visibility: hidden;
+}
+
+/*
+article>.inner {
+  max-width: 65%  !important;
+}
+*/

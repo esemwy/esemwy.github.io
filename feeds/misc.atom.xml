@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>SMY.com - misc</title><link href="//www.smy.com/" rel="alternate"></link><link href="//www.smy.com/feeds/misc.atom.xml" rel="self"></link><id>//www.smy.com/</id><updated>2020-03-27T21:53:45-04:00</updated><subtitle>Better living through applied engineering.</subtitle><entry><title>First Light</title><link href="//www.smy.com/first-light.html" rel="alternate"></link><published>2020-03-27T21:53:45-04:00</published><updated>2020-03-27T21:53:45-04:00</updated><author><name>Esemwy</name></author><id>tag:www.smy.com,2020-03-27:/first-light.html</id><summary type="html">&lt;p&gt;I obviously don't do blogging. I end up redoing my web site every couple of years thinking maybe I'll start. This times impetus is my GoDaddy renewal bill.
+Everybody else seems to be adding features and lowering prices. Not so much here. &lt;/p&gt;
+&lt;p&gt;It's not like $12 a month is going …&lt;/p&gt;</summary><content type="html">&lt;p&gt;I obviously don't do blogging. I end up redoing my web site every couple of years thinking maybe I'll start. This times impetus is my GoDaddy renewal bill.
+Everybody else seems to be adding features and lowering prices. Not so much here. &lt;/p&gt;
+&lt;p&gt;It's not like $12 a month is going to break the bank, but given that I actually have
+a static IP address, and the infrastructure to serve it, it seem time to bring my web site in from the cold.&lt;/p&gt;</content><category term="misc"></category><category term="blog"></category></entry></feed>
